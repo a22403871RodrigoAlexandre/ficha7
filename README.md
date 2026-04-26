@@ -1,2 +1,2 @@
 # ficha7
-username admin pass admin
+O meu trabalho está aqui https://github.com/a22403871RodrigoAlexandre/portfolio-django-ficha6
